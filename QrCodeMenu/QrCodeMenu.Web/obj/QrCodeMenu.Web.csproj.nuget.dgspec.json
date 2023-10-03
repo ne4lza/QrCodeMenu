@@ -1,0 +1,419 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.Web\\QrCodeMenu.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.BusinessLayer\\QrCodeMenu.BusinessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.BusinessLayer\\QrCodeMenu.BusinessLayer.csproj",
+        "projectName": "QrCodeMenu.BusinessLayer",
+        "projectPath": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.BusinessLayer\\QrCodeMenu.BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\ekili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.BusinessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ekili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.DataAccessLayer\\QrCodeMenu.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.DataAccessLayer\\QrCodeMenu.DataAccessLayer.csproj"
+              },
+              "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.EntityLayer\\QrCodeMenu.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.EntityLayer\\QrCodeMenu.EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.Core\\QrCodeMenu.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.Core\\QrCodeMenu.Core.csproj",
+        "projectName": "QrCodeMenu.Core",
+        "projectPath": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.Core\\QrCodeMenu.Core.csproj",
+        "packagesPath": "C:\\Users\\ekili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ekili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.DataAccessLayer\\QrCodeMenu.DataAccessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.DataAccessLayer\\QrCodeMenu.DataAccessLayer.csproj",
+        "projectName": "QrCodeMenu.DataAccessLayer",
+        "projectPath": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.DataAccessLayer\\QrCodeMenu.DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\ekili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.DataAccessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ekili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.EntityLayer\\QrCodeMenu.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.EntityLayer\\QrCodeMenu.EntityLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.EntityLayer\\QrCodeMenu.EntityLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.EntityLayer\\QrCodeMenu.EntityLayer.csproj",
+        "projectName": "QrCodeMenu.EntityLayer",
+        "projectPath": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.EntityLayer\\QrCodeMenu.EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\ekili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.EntityLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ekili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.Core\\QrCodeMenu.Core.csproj": {
+                "projectPath": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.Core\\QrCodeMenu.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.Web\\QrCodeMenu.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.Web\\QrCodeMenu.Web.csproj",
+        "projectName": "QrCodeMenu.Web",
+        "projectPath": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.Web\\QrCodeMenu.Web.csproj",
+        "packagesPath": "C:\\Users\\ekili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ekili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.BusinessLayer\\QrCodeMenu.BusinessLayer.csproj": {
+                "projectPath": "C:\\Users\\ekili\\OneDrive\\Belgeler\\GitHub\\QrCodeMenu\\QrCodeMenu\\QrCodeMenu.BusinessLayer\\QrCodeMenu.BusinessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

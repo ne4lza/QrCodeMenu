@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\QrCodeMenu.Web.props" />
+</Project>

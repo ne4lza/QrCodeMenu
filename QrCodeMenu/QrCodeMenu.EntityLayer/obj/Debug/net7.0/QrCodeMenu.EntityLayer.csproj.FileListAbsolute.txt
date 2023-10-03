@@ -1,0 +1,17 @@
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.EntityLayer\bin\Debug\net7.0\QrCodeMenu.EntityLayer.deps.json
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.EntityLayer\bin\Debug\net7.0\QrCodeMenu.EntityLayer.runtimeconfig.json
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.EntityLayer\bin\Debug\net7.0\QrCodeMenu.EntityLayer.dll
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.EntityLayer\bin\Debug\net7.0\QrCodeMenu.EntityLayer.pdb
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.EntityLayer\bin\Debug\net7.0\QrCodeMenu.Core.dll
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.EntityLayer\bin\Debug\net7.0\QrCodeMenu.Core.pdb
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.EntityLayer\obj\Debug\net7.0\QrCodeMenu.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.EntityLayer\obj\Debug\net7.0\QrCodeMenu.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.EntityLayer\obj\Debug\net7.0\QrCodeMenu.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.EntityLayer\obj\Debug\net7.0\QrCodeMenu.EntityLayer.AssemblyInfo.cs
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.EntityLayer\obj\Debug\net7.0\QrCodeMenu.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.EntityLayer\obj\Debug\net7.0\QrCodeMenu.EntityLayer.csproj.CopyComplete
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.EntityLayer\obj\Debug\net7.0\QrCodeMenu.EntityLayer.dll
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.EntityLayer\obj\Debug\net7.0\refint\QrCodeMenu.EntityLayer.dll
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.EntityLayer\obj\Debug\net7.0\QrCodeMenu.EntityLayer.pdb
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.EntityLayer\obj\Debug\net7.0\QrCodeMenu.EntityLayer.genruntimeconfig.cache
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.EntityLayer\obj\Debug\net7.0\ref\QrCodeMenu.EntityLayer.dll

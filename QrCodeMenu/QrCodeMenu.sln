@@ -3,7 +3,43 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrCodeMenu.DataAccessLayer", "QrCodeMenu.DataAccessLayer\QrCodeMenu.DataAccessLayer.csproj", "{C7827BC1-5D4B-4B51-91C7-BB240801714E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrCodeMenu.EntityLayer", "QrCodeMenu.EntityLayer\QrCodeMenu.EntityLayer.csproj", "{29786BA5-F429-4A02-9F24-AD55F22F63BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrCodeMenu.BusinessLayer", "QrCodeMenu.BusinessLayer\QrCodeMenu.BusinessLayer.csproj", "{DB9A6DF9-D178-44DA-A827-D462083F8379}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrCodeMenu.Core", "QrCodeMenu.Core\QrCodeMenu.Core.csproj", "{BD9152EA-6B6D-4379-95F4-D9F16DF5413D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrCodeMenu.Web", "QrCodeMenu.Web\QrCodeMenu.Web.csproj", "{56B97194-78AD-4937-AB48-B2DFFDB64CB0}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7827BC1-5D4B-4B51-91C7-BB240801714E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7827BC1-5D4B-4B51-91C7-BB240801714E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7827BC1-5D4B-4B51-91C7-BB240801714E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7827BC1-5D4B-4B51-91C7-BB240801714E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29786BA5-F429-4A02-9F24-AD55F22F63BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29786BA5-F429-4A02-9F24-AD55F22F63BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29786BA5-F429-4A02-9F24-AD55F22F63BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29786BA5-F429-4A02-9F24-AD55F22F63BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB9A6DF9-D178-44DA-A827-D462083F8379}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9A6DF9-D178-44DA-A827-D462083F8379}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9A6DF9-D178-44DA-A827-D462083F8379}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9A6DF9-D178-44DA-A827-D462083F8379}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD9152EA-6B6D-4379-95F4-D9F16DF5413D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD9152EA-6B6D-4379-95F4-D9F16DF5413D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD9152EA-6B6D-4379-95F4-D9F16DF5413D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD9152EA-6B6D-4379-95F4-D9F16DF5413D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B97194-78AD-4937-AB48-B2DFFDB64CB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B97194-78AD-4937-AB48-B2DFFDB64CB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B97194-78AD-4937-AB48-B2DFFDB64CB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B97194-78AD-4937-AB48-B2DFFDB64CB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

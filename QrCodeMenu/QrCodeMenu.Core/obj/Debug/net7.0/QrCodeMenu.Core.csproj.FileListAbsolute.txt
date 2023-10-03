@@ -1,0 +1,14 @@
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.Core\bin\Debug\net7.0\QrCodeMenu.Core.deps.json
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.Core\bin\Debug\net7.0\QrCodeMenu.Core.runtimeconfig.json
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.Core\bin\Debug\net7.0\QrCodeMenu.Core.dll
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.Core\bin\Debug\net7.0\QrCodeMenu.Core.pdb
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.Core\obj\Debug\net7.0\QrCodeMenu.Core.csproj.AssemblyReference.cache
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.Core\obj\Debug\net7.0\QrCodeMenu.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.Core\obj\Debug\net7.0\QrCodeMenu.Core.AssemblyInfoInputs.cache
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.Core\obj\Debug\net7.0\QrCodeMenu.Core.AssemblyInfo.cs
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.Core\obj\Debug\net7.0\QrCodeMenu.Core.csproj.CoreCompileInputs.cache
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.Core\obj\Debug\net7.0\QrCodeMenu.Core.dll
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.Core\obj\Debug\net7.0\refint\QrCodeMenu.Core.dll
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.Core\obj\Debug\net7.0\QrCodeMenu.Core.pdb
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.Core\obj\Debug\net7.0\QrCodeMenu.Core.genruntimeconfig.cache
+C:\Users\ekili\OneDrive\Belgeler\GitHub\QrCodeMenu\QrCodeMenu\QrCodeMenu.Core\obj\Debug\net7.0\ref\QrCodeMenu.Core.dll
